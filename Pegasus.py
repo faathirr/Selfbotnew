@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-# Tolong jangan ubah mid creator || Hargai saya
 import LINETCR
 from LINETCR.lib.curve.ttypes import *
 from datetime import datetime
@@ -175,8 +174,8 @@ helpMessage ="""
 KAC=[ki] 
 mid = cl.getProfile().mid
 Amid = ki.getProfile().mid
-Creator="u4b0e00ae8e366fc33d645ac5de9acfcf"
-admin=["u4b0e00ae8e366fc33d645ac5de9acfcf",mid]
+Creator="Mid here"
+admin=["Mid here",mid]
 
 contact = cl.getProfile()
 backup = cl.getProfile()
